@@ -101,7 +101,7 @@ prompt-toolkit=3.0.8=py_0
 protobuf=3.15.8=pypi_0
 ptyprocess=0.6.0=py36_0
 pycparser=2.20=pyh9f0ad1d_2
-pygments=2.7.1=py_0
+Pygments>=2.7.4
 pyopenssl=20.0.1=pyhd8ed1ab_0
 pyparsing=2.4.7=pyhd3eb1b0_0
 pyqt=5.9.2=py36h05f1152_2
