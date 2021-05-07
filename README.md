@@ -34,7 +34,7 @@ a limited number of available references.
 Likert-score based self-reported user rating is widely adopted by social conversational systems, such as Amazon Alexa Prize chatbots. However, self-reported user rating suffers from bias and variance among different users. To alleviate this problem, we formulate dialog evaluation as a comparison task. We also propose an automatic evaluation model CMADE (Comparison Model for Automatic Dialog Evaluation) that automatically cleans self-reported user ratings as it trains on them.  Specifically, we first use a self-supervised method to learn better dialog feature representation, and then use KNN and Shapley to remove confusing samples. 
 Our experiments show that CMADE 
  achieves 89.2\% accuracy in the dialog comparison task. 
-Our implementation is available at https://github.com/Weixin-Liang/dialog_evaluation_CMADE.*
+Our implementation is available at https://github.com/Weixin-Liang/dialog_evaluation_CMADE*
 
 
 ## Overview
