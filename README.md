@@ -1,6 +1,10 @@
 # Beyond User Self-Reported Likert Scale Ratings: A Comparison Model for Automatic Dialog Evaluation
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Weixin-Liang/dialog_evaluation_CMADE/blob/master/LICENSE)
+[![arXiv](https://img.shields.io/badge/arXiv-2005.10716-b31b1b.svg)](https://arxiv.org/abs/2005.10716) 
+[![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
+[![Pytorch](https://img.shields.io/badge/Pytorch-1.8-red.svg)](https://shields.io/)
+
 
 This repo provides the PyTorch source code of our paper: [Beyond User Self-Reported Likert Scale Ratings: A Comparison Model for Automatic Dialog Evaluation](https://www.aclweb.org/anthology/2020.acl-main.126/) (ACL 2020). 
 [[PDF]](https://www.aclweb.org/anthology/2020.acl-main.126.pdf)[[Video]](https://slideslive.com/38928690/beyond-user-selfreported-likert-scale-ratings-a-comparison-model-for-automatic-dialog-evaluation)
